@@ -1,24 +1,12 @@
-# lesezeichen
+# Vuex Todo List
+Non-persistent state todo list app with ability to add and remove items. Refresher code on simple Vuex usage.
 
-## Project setup
+## Project Setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
