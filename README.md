@@ -4,9 +4,6 @@ Non-persistent state todo list app with ability to add and remove items. Refresh
 ## Project Setup
 ```
 yarn install
-```
 
-
-```
 yarn serve
 ```
